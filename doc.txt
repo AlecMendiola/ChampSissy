@@ -1,0 +1,4 @@
+Have all of multi-verse on site
+Use API to check every x hours, mainly around friday otherwise every 12 hours.
+Have widgets for champ to put commentary?
+Extended lore stuff?
